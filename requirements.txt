@@ -1,0 +1,11 @@
+transformers
+datasets
+torch
+scikit-learn
+bitsandbytes
+accelerate
+gradio
+
+
+
+
